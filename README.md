@@ -1,0 +1,2 @@
+# house-price-prediction-ML
+This repository is for the house price prediction project done using linear regression.

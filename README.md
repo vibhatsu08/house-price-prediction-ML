@@ -25,7 +25,8 @@ RandomForestRegressor is imported from the sklearn.ensemble module, it is a ense
 LinearRegression is imported from the sklearn.linear_model and it is used for the application of the linear regression algorithm for modelling the linear relationships between the dependent and the independent variable. <br>
 <br>
 
-```dataset = pd.read_excel("/Users/vedantmistry/Downloads/HousePricePrediction.xlsx")
+```
+dataset = pd.read_excel("/Users/vedantmistry/Downloads/HousePricePrediction.xlsx")
 ```
 This uses the pandas library to import the dataset in the excel format into the notebook. <br>
 <br>
